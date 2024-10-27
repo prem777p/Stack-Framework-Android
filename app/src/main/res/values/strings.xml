@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stack Framework</string>
+    <string name="modify_according_to_usage">Modify According to Usage</string>
+    <string name="_150_000">₹150,000</string>
+    <string name="emi_temp">EMI: ₹4,247 / month for 12 months</string>
+    <string name="some_operation">SOME OPERATION</string>
+    <string name="collapse_view_toggle_state">collapse view toggle state</string>
+    <string name="close_app_button">Close App button</string>
+    <string name="provide_app_info">Provide app info</string>
+</resources>
